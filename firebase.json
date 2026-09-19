@@ -1,0 +1,11 @@
+{
+  "hosting": {
+    "site": "project-foresight-d549d-939a2",
+    "public": "public",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
